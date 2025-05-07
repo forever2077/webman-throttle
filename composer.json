@@ -1,5 +1,5 @@
 {
-  "name": "yzh52521/webman-throttle",
+  "name": "forever2077/webman-throttle",
   "description": "Webman框架限流中间件",
   "type": "library",
   "authors": [
@@ -12,7 +12,7 @@
   "license": "MIT",
   "require": {
     "php": ">=7.2",
-    "workerman/webman-framework": "^1.2.1"
+    "workerman/webman-framework": "^1.2.1 || ^2.0"
   },
   "minimum-stability": "dev",
   "autoload": {
